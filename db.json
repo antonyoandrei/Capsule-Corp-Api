@@ -1,0 +1,579 @@
+{
+  "clothes":[
+  {
+    "id": 1,
+    "name": "Future Jacket",
+    "description": "Step into the future with our Futuristic Warrior Jacket, designed for those who are ready to conquer any challenge, even if it's from a different timeline. Built with a blend of durable materials, it boasts an embossed emblem for that extra touch of intergalactic style. With strategically placed pockets and an adjustable fit, this jacket ensures you're prepared for whatever the time stream throws your way. Embrace the future in style!",
+    "price": 10000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338121/tabs/future-jacket.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696589859/clothes/Trunks%C2%B4%20Clothes/future-jacket_poniyu.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696589860/clothes/Trunks%C2%B4%20Clothes/future-jacket-2_fixowz.png"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Kame Boots",
+    "description": "Step into the realm of ultimate power and agility with our exclusive Saiyan elite training boots, inspired by none other than the legendary warrior, Goku! Crafted with precision and designed for peak performance, these boots are the epitome of style and functionality, ideal for those who seek to push their limits and transcend their boundaries.",
+    "price": 8000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338121/tabs/goku-boots.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Goku's%20Boots/cjmoyqwihn93yfe1jbiu", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Goku's%20Boots/xczmy9xeluew20qrhddt", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Goku's%20Boots/spypcczxtw1iq9ki9lcu"
+    ] 
+  },
+  {
+    "id": 3,
+    "name": "Kame Gi",
+    "description": "Unleash your inner warrior and channel the spirit of Earth's mightiest hero with Goku's Gi. Crafted with precision and designed for the most demanding martial artists, this iconic gi embodies the essence of power, determination, and relentless pursuit of greatness.",
+    "price": 15000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696622553/tabs/tab-goku-gi_fuzlyy.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696622695/clothes/Goku%27s%20Gi/goku-gi_xpzojs.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696622695/clothes/Goku%27s%20Gi/goku-gi-2_fgifmw.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696617078/clothes/Goku%27s%20Gi/goku-gi-3_qdfyia.png"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Pride Trooper Suit",
+    "description": "Embrace the spirit of unity and strength with this cutting-edge, vibrant suit. Crafted with high-performance materials, it offers unmatched flexibility and durability. The striking design exudes confidence and power, while the advanced technology ensures maximum comfort. Elevate your presence and join the ranks of true champions with the Pride Trooper's suit!",
+    "price": 20000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/pride-trooper-suit.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590164/clothes/Pride%20Trooper/pride-trooper_tqi7qz.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590165/clothes/Pride%20Trooper/pride-trooper-2_jvvhkl.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590162/clothes/Pride%20Trooper/pride-trooper-3_d2cibd.png"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Vegeta's Mono",
+    "description": "Unleash unparalleled power with this cutting-edge transformation. Crafted with precision, the blue mono combines raw strength with unmatched agility, setting new standards in combat excellence. Its sleek, cobalt exterior exudes an aura of invincibility, while the dynamic energy core ensures sustained performance. Elevate your battles to cosmic heights with Vegeta's mono, the epitome of martial prowess!",
+    "price": 15000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/vegeta-mono.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Vegeta%C2%B4s%20Mono/lppxdtvem3wsga58ks4v", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Vegeta%C2%B4s%20Mono/xczbnlbchz6fyn77s5gt"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Goku's 59 Jacket",
+    "description": "Introducing the Saiyan Heritage Jacket, a legendary piece of attire inspired by the iconic warrior, Goku. Crafted with the finest materials, this jacket embodies the spirit of a true Saiyan warrior, featuring intricate stitching and vibrant colors reminiscent of Goku's adventurous spirit. Its cutting-edge design seamlessly combines comfort and style, making it perfect for everyday wear or intense training sessions. Embrace the power of Saiyan heritage and channel your inner warrior with this exceptional piece of apparel!",
+    "price": 30000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696618892/tabs/tab-goku-jacket_actgxh.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696618918/clothes/Goku%27s%20Jacket/goku-jacket_jy7shw.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696618919/clothes/Goku%27s%20Jacket/goku-jacket-2_tv7ngs.png"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Green Potara",
+    "description": "Introducing the Potara Fusion Pendants, the ultimate symbol of unity and power! Crafted with exquisite precision, these elegant pendants hold the secret to unparalleled cooperation. When worn by two individuals, they unlock an extraordinary fusion, merging strengths and abilities seamlessly. Elevate your potential and conquer challenges together with the Potara pendants. Unleash a force greater than the sum of its parts! Also available in yellow.",
+    "price": 35000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/potara-green.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Potara/xujawqiaxonknga9eisb", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Potara/hv28bjmwwxtw3rvgbzjd"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Yardrat Armor",
+    "description": "Experience a new level of agility and versatility with the Yardrat armor! Crafted with cutting-edge technology, this sleek, form-fitting suit enhances your natural abilities, allowing for lightning-fast movements and instant teleportation. Its advanced fabric provides both comfort and durability, ensuring peak performance in any situation. Unleash your true potential with the Yardrat armor, designed to empower you like never before.",
+    "price": 25000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/yardrat-armor.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Yardrat%20Armor/coy1xadct8lhv3t43bob", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590271/clothes/Yardrat%20Armor/yardrat-armor-2_qtd9ab.png"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Badman Shirt",
+    "description": "Unleash the untamed power with the Badman shirt! This iconic apparel exudes an air of rebellion and strength, featuring a bold symbol that embodies a fierce warrior spirit. Crafted with high-quality materials, it offers comfort and durability for any adventure. Elevate your style with the Badman shirt and channel your inner force like never before.",
+    "price": 10000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338121/tabs/badman-shirt.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590408/clothes/Vegeta%C2%B4s%20Badman%20Shirt/vegeta-badman-4_z0sytd.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590405/clothes/Vegeta%C2%B4s%20Badman%20Shirt/vegeta-badman-2_idvtsr.png"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Piccolo's Cape",
+    "description": "Crafted with impeccable attention to detail, Piccolo's cape exudes an air of mystique and power. Its rich, deep green hue complements any ensemble, while the lightweight yet durable fabric ensures comfort and ease of movement. The distinctive high collar adds an element of regal flair, making it perfect for both formal occasions and intense training sessions. Elevate your style and embrace the essence of a true warrior with this iconic cape.",
+    "price": 25000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/piccolo-cape.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590535/clothes/Piccolo%C2%B4s%20Cape/piccolo-cape_x3vtk1.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590537/clothes/Piccolo%C2%B4s%20Cape/piccolo-cape-2_atpnef.png"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Saiyan Armor",
+    "description": "Unleash your true potential with our cutting-edge battle suit. Crafted from state-of-the-art materials, this armor offers unmatched durability and flexibility, providing ultimate protection in the heat of combat. Its sleek design ensures maximum mobility, allowing you to move with lightning speed and strike with precision. The innovative energy-absorbing technology empowers you to push your limits, while the customizable fit ensures a comfortable experience. Elevate your battle prowess to new heights and conquer any challenge that stands in your way. Embrace the legacy of the Saiyan warriors with the pinnacle of combat attire.",
+    "price": 30000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/saiyan-armor.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Saiyan%20Armor/go0jvgj3yk61drtx3b6o", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Saiyan%20Armor/i303serasgawewewgxav", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Saiyan%20Armor/cinxfnuj9t4crt44acoi" 
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Tien Shin Han's Pants",
+    "description": "Elevate your style with these sleek and comfortable green pants. Crafted from premium materials, these pants are designed to provide ultimate comfort and flexibility, making them perfect for any occasion. The vibrant green color adds a pop of personality to your wardrobe, while the expert tailoring ensures a flattering fit. Whether you're out for a casual day or dressing up for a special event, these green pants will make a statement and keep you looking effortlessly stylish.",
+    "price": 5000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696623083/tabs/tab-tien_wnprjh.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696623037/clothes/TienShinHan%C2%B4s%20Clothes/tien_fbiz3a.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696590658/clothes/TienShinHan%C2%B4s%20Clothes/tien-2_vsepmu.png"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "White Boots",
+    "description": "Crafted with precision and style, these sleek white boots exude a powerful aura, perfectly blending form and function. The durable, high-quality material ensures lasting comfort and support, while the iconic design adds a touch of sophistication to any ensemble. Whether for a high-energy battle or a fashionable statement, these boots are the ultimate choice for those seeking power, elegance, and a touch of mystique.",
+    "price": 3500,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696616190/tabs/tab-white-boots_gnuedq.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696616243/clothes/White%20Boots/white-boots-side_jc2los.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696616243/clothes/White%20Boots/white-boots_jg8p2w.png"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Tien Shin Han's Robes",
+    "description": "Crafted with exceptional precision, these martial arts robes exude a perfect blend of tradition and functionality. Tien's robes boast a lightweight, breathable fabric that allows for unrestricted movement, making them ideal for rigorous training sessions. The elegant, flowing design showcases impeccable attention to detail, while the reinforced stitching ensures durability for extended use. With a versatile color palette, these robes offer a timeless style for practitioners seeking both comfort and aesthetics in their martial arts journey.",
+    "price": 18000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696623275/tabs/tab-tien-robes_frqffz.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696623321/clothes/TienShinHan%C2%B4s%20Clothes/tien-robes_sq4vcb.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696623322/clothes/TienShinHan%C2%B4s%20Clothes/tien-robes-2_ncrjdl.png"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Kame Pants",
+    "description": "Unleash your inner warrior and channel the spirit of Earth's mightiest hero with Goku's Gi. Crafted with precision and designed for the most demanding martial artists, this iconic gi embodies the essence of power, determination, and relentless pursuit of greatness.",
+    "price": 15000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696622553/tabs/tab-goku-pants_ltszrz.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696622782/clothes/Goku%27s%20Gi/goku-pants_xac5dw.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696622781/clothes/Goku%27s%20Gi/goku-pants-2_b119en.png",
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696617215/clothes/Goku%27s%20Gi/goku-pants-3_dk6qyc.png"
+    ]
+  },
+  {
+    "id": 16,
+    "name": "Yellow Potara",
+    "description": "Introducing the Potara Fusion Pendants, the ultimate symbol of unity and power! Crafted with exquisite precision, these elegant pendants hold the secret to unparalleled cooperation. When worn by two individuals, they unlock an extraordinary fusion, merging strengths and abilities seamlessly. Elevate your potential and conquer challenges together with the Potara pendants. Unleash a force greater than the sum of its parts! Also available in green.",
+    "price": 35000,
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338123/tabs/potara-yellow.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Potara/qpwdy2w6mv2rduy2fruu", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Potara/nrfwe5whdclpivfpfqof"
+    ]
+  },
+  {
+    "id": 17,
+    "name": "Great Saiyaman's Helmet",
+    "description": "The Great Saiyaman's helmet boasts a sleek and vibrant design, combining form and function seamlessly. Crafted with high-quality, durable materials, it provides superior protection and comfort. Its iconic visor offers clear visibility while adding a touch of style. The adjustable strap ensures a snug fit for any wearer. Whether you're on a heroic mission or just making a fashion statement, this helmet is a must-have accessory for any enthusiast. Embrace the spirit of justice with the Great Saiyaman's helmet!",
+    "price": 30000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338122/tabs/saiyaman-helmet.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Great%20Saiyaman%C2%B4s%20Helmet/z3rjtsqpp15fjseetjoq", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/clothes/Great%20Saiyaman%C2%B4s%20Helmet/ynrc9dol1qtckpka1ccz"
+    ]
+  },
+  {
+    "id": 18,
+    "name": "Cell's Cap",
+    "description": "Unleash Your Inner Android! Crafted with precision and attention to detail, this cap pays homage to the formidable villain Cell, allowing you to embody his fierce energy and power.",
+    "price": 50000,
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/v1696338121/tabs/cell-cap.png",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593793/clothes/cap/cap2_qegagj.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593799/clothes/cap/cap1_bmisiz.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696623418/clothes/cap/cap3_hsuama.png"
+    ]
+  }
+],
+  "items": [
+  {
+    "id": 19,
+    "name": "1 Star Dragon Ball",
+    "description": "This legendary 1 Star Dragon Ball is said to possess incredible mystical power. Crafted from a rare and exotic material, it's a must-have for any serious collector or martial artist seeking ultimate power. Own a piece of the Dragon Ball legacy!",
+    "price": "15500000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/o1bz7ovve2qlhjnl1fem",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606190/items/Dragon%20Balls/1db_ie9wki.png"
+    ]
+  },
+  {
+    "id": 20,
+    "name": "2 Star Dragon Ball",
+    "description": "Discover the legendary 2 Star Dragon Ball, a relic of immense power that grants its possessor a glimpse into the cosmic forces of the universe. Crafted with ancient mystic materials, this Dragon Ball is said to hold the key to hidden knowledge and untold adventures. Own a piece of history and harness the energy within.",
+    "price": "15500000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/q7eitwgtesnv93svymb0",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606339/items/Dragon%20Balls/2db_w8eswq.png"
+    ]
+  },
+  {
+    "id": 21,
+    "name": "3 Star Dragon Ball",
+    "description": "Embark on a legendary quest with the revered 3 Star Dragon Ball. Imbued with ancient energy, this artifact resonates with the essence of adventure and discovery. Its allure transcends time and space, calling out to those with the spirit of a true adventurer.",
+    "price": "15500000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/q8o7w9nnpgak1bkeybnx",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606339/items/Dragon%20Balls/3db_vb6iwt.png"
+    ]
+  },
+  {
+    "id": 22,
+    "name": "4 Star Dragon Ball",
+    "description": "The 4 Star Dragon Ball, a symbol of hope and adventure. Legend has it that whoever possesses it gains the protection of the benevolent Shenron. This Dragon Ball captures the essence of this sacred artifact, making it a treasure for fans and collectors alike.",
+    "price": "15500000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/b7tsbphxl5uvjfl7udfp",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606339/items/Dragon%20Balls/4db_uakzam.png"
+    ]
+  },
+  {
+    "id": 23,
+    "name": "5 Star Dragon Ball",
+    "description": "Unearth the awe-inspiring 5 Star Dragon Ball, a symbol of hope and power in the universe. Forged through the fusion of ancient energies, this Dragon Ball is said to possess the ability to grant wishes of unimaginable magnitude. Join the ranks of those who have harnessed its might and embark on your epic journey.",
+    "price": "15500000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/abem1tkocm2dprihjzxx",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606338/items/Dragon%20Balls/5db_yynaqx.png"
+    ]
+  },
+  {
+    "id": 24,
+    "name": "6 Star Dragon Ball",
+    "description": "Unlock the secrets of the universe with the enigmatic 6 Star Dragon Ball. Imprinted with ancient wisdom, this artifact resonates with the spirit of seekers and explorers. Its luminous presence beckons those who dare to venture into the unknown, promising extraordinary encounters and boundless potential.",
+    "price": "15500000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/x1fhb1c2chyrv0kbbc5c",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606338/items/Dragon%20Balls/6db_enkijn.png"
+    ]
+  },
+  {
+    "id": 25,
+    "name": "7 Star Dragon Ball",
+    "description": "Step into the realm of legend with the 7 Star Dragon Ball, a treasure that has transcended time and space. Crafted with ancient mysticism, this Dragon Ball is believed to possess the power to shape destinies and grant unimaginable wishes. Harness the energy within and become the master of your fate.",
+    "price": "15500000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/w9im9ngzbnpt4qzhatzd",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696606337/items/Dragon%20Balls/7db_y7taja.png"
+    ]
+  },
+  {
+    "id": 26,
+    "name": "Green Scouter",
+    "description": "Enhance your perception with the Green Scouter, a technological marvel that offers real-time analysis of power levels. Crafted with precision and designed for warriors seeking an edge in battle, this Scouter is your key to understanding the strengths and weaknesses of your opponents. Elevate your combat strategy with this essential piece of Saiyan technology.",
+    "price": "70000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/fwa4zodx7bmxm1buzm1i",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Scouters/cszb2fdzg96vntlykuhc", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593320/items/Scouters/green-scouter-2_afkyas.png"
+    ]
+  },
+  {
+    "id": 27,
+    "name": "Majin Sticker",
+    "description": "Embrace the mischievous spirit with the Majin Sticker, a playful accessory inspired by the enigmatic Majin Buu. Crafted with vibrant colors and high-quality materials, this sticker adds a touch of whimsy to your belongings.",
+    "price": "2000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/l3m3fvenyuyszylxfkkp",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Majin%20Sticker/hdo1viaqdzr0hcrmpal7", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Majin%20Sticker/ezkybsphosppqjs6sglx"
+    ]
+  },
+  {
+    "id": 28,
+    "name": "Mr Satan's World Title",
+    "description": "Celebrate the reigning champion of the World Martial Arts Tournament with Mr. Satan's World Title! Crafted to perfection, this replica belt captures the essence of triumph and glory. Whether you wear it proudly or display it as a symbol of inspiration, this championship belt is a must-have for any fan.",
+    "price": "100000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/onjdttatjufxpufqbkhx",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696609137/items/Satan%20Title/champion-belt_ahc0nl.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696609124/items/Satan%20Title/champion-belt-2_fvz9l3.png"
+    ]
+  },
+  {
+    "id": 29,
+    "name": "Future Sword",
+    "description": "Unleash the power of the Future Sword, a blade forged in the fires of determination and resilience. Crafted with expert craftsmanship, this sword embodies the spirit of warriors who have faced adversity head-on. Whether for cosplay or as a collector's item, the Future Sword is a tribute to the indomitable human spirit.",
+    "price": "150000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/bkp0txbcagjydji4huk9",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Trunks%C2%B4%20Sword/upbefuwy25iaaezoorzs", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Trunks%C2%B4%20Sword/q5lj6gljq71aprn68ttg", 
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Trunks%C2%B4%20Sword/mbqsdl4c74cdqul9xvbd"
+    ]
+  },
+  {
+    "id": 30,
+    "name": "Blue Scouter",
+    "description": "Elevate your technological prowess with the Blue Scouter, a device that grants you access to vital information on your surroundings. Crafted with advanced sensors and a sleek design, this Scouter offers enhanced data analysis for those who seek an edge in the modern world. Stay one step ahead with the Blue Scouter.",
+    "price": "70000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/kouvybxyxnedbkrkbdo5",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Scouters/hbb6dafswfcmwnr6olao", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593320/items/Scouters/blue-scouter-2_usfdff.png"
+    ]
+  },
+  {
+    "id": 31,
+    "name": "Namekian Spaceship",
+    "description": "Embark on interstellar adventures with the Namekian Spaceship, a vessel designed for cosmic exploration. Crafted with cutting-edge technology, this spaceship ensures a safe and comfortable journey through the vastness of space. Join the ranks of spacefaring explorers and set your sights on the stars with the Namekian Spaceship.",
+    "price": "750000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/hflrqchfqt4mg18civpj",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Namekian%20Ship/c2c63mdqskl4tq3v3nyi"
+    ]
+  },
+  {
+    "id": 32,
+    "name": "Dragon Radar",
+    "description": "The Dragon Radar is an essential tool for any Dragon Ball enthusiast. Crafted with precision engineering, this state-of-the-art device can locate Dragon Balls anywhere in the world. Embark on epic quests and summon the mighty Shenron with confidence using this indispensable piece of technology.",
+    "price": "345000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/sqczch4rfekgowe35xkj",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593529/items/Radar/radar_rfb5k9.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593529/items/Radar/radar-2_sitiv1.png"
+    ]
+  },
+  {
+    "id": 33,
+    "name": "Nyoi Bo",
+    "description": "Channel the spirit of martial arts with the Nyoi Bo, a staff crafted for warriors seeking perfection in their techniques. Made from resilient materials and designed for balance, this staff is the ultimate training tool for those on a quest for mastery. Elevate your combat skills and become a true martial artist with the Nyoi Bo.",
+    "price": "225000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/oyz82eiuzmnwcl843nho",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Goku%C2%B4s%20Nyoi%20Bo/iaflfvcvzx0yzbvi6civ", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593668/items/Goku%C2%B4s%20Nyoi%20Bo/nyoi-bo-2_f00mpo.png"
+    ]
+  },
+  {
+    "id": 34,
+    "name": "Capsule",
+    "description": "Experience the convenience of the iconic Capsule, a marvel of compact storage technology. Crafted with precision, these capsules can hold a wide range of items, from vehicles to everyday essentials. Whether you're a traveler or simply seeking a clutter-free life, the Capsule is your solution to efficient organization.",
+    "price": "15000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/fcvt3udz4w9jnp8smvga",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593593/items/Capsule/capsule_myxknv.png"
+    ]
+  },
+  {
+    "id": 35,
+    "name": "Senzu Bean",
+    "description": "Harness the healing power of the Senzu Bean, a miraculous legume that restores your vitality and energy in an instant. Cultivated with care, these beans are a lifeline for warriors in need of a quick recovery. Whether you're in the midst of a fierce battle or a challenging day, the Senzu Bean is your ultimate source of rejuvenation.",
+    "price": "4000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/n6necjdrnzjxph9wr0yt",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Senzu/rwxlehwaf2jh89gnrpjp"
+    ]
+  },
+  {
+    "id": 36,
+    "name": "Babidi Crystal Ball",
+    "description": "Tap into the dark energy of the Babidi Crystal Ball, a relic of malevolent power and untold secrets. Crafted with forbidden knowledge, it pulses with an ominous energy that resonates with those who seek dominion over the forces of darkness. This sinister artifact holds the potential to unleash unimaginable chaos and destruction. Proceed with caution, for its power comes at a grave cost.",
+    "price": "1500",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/kl811l3ndbw4hhkoxp6r",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696591785/items/Babidi%20Crystal%20Ball/babidi-crystal_wkit7w.png"
+    ]
+  },
+  {
+    "id": 37,
+    "name": "Ginyu Force Sticker",
+    "description": "Embrace the spirit of camaraderie and strength with the Ginyu Force Sticker. Designed with vibrant colors and impeccable detail, it pays tribute to the legendary team known for their dynamic poses and formidable abilities. Adorn your possessions with this symbol of unity and let the indomitable spirit of the Ginyu Force inspire you to conquer any challenge that comes your way.",
+    "price": "2000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/lekqou6db1cky5t8yzzl",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696591905/items/Ginyu%20Force%20Sticker/ginyu-sticker_vrvxnc.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696591910/items/Ginyu%20Force%20Sticker/ginyu-sticker-2_kqrczx.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696591908/items/Ginyu%20Force%20Sticker/ginyu-sticker-3_px24ob.png"
+    ]
+  },
+  {
+    "id": 38,
+    "name": "Saiyan Pod",
+    "description": "Behold the Saiyan Pod, a marvel of Saiyan technology! This meticulously designed ship pays homage to the interstellar vessels used by the powerful Saiyan warriors. Display it proudly and channel the warrior spirit within you.",
+    "price": "800000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/hxdqiwi1ofaehv54okoo",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592095/items/Saiyan%20Ship/saiyan-pod_gmreq3.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592090/items/Saiyan%20Ship/saiyan-pod-2_iqmuya.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592093/items/Saiyan%20Ship/saiyan-pod-3_u5qnfh.png"
+    ]
+  },
+  {
+    "id": 39,
+    "name": "Mr Satan's Broken Tiles",
+    "description": "Capture the essence of Mr. Satan's legendary triumph with his iconic Broken Tiles. These shattered remnants bear witness to his unparalleled strength and skill. Display them as a testament to the indomitable human spirit or keep them as a cherished collector's item. Embrace the legacy of a true martial arts champion with Mr. Satan's Broken Tiles.",
+    "price": "40000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/uxclebpss05a8ydmwwnl",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592262/items/MrSatan%20Tiles/satan-tile_oqflqb.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592259/items/MrSatan%20Tiles/satan-tile-2_c1svqo.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592264/items/MrSatan%20Tiles/satan-tile-3_iog8nq.png"
+    ]
+  },
+  {
+    "id": 40,
+    "name": "Majin Buu Chocolate",
+    "description": "Indulge in the mischievous delight of Majin Buu Chocolate, a delectable treat that captures the essence of the enigmatic Majin Buu. Crafted with care and infused with a touch of magic, each piece is a whimsical adventure for your taste buds. Whether as a snack or a unique gift, Majin Buu Chocolate is sure to bring a smile to your face.",
+    "price": "6000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/hp2jm4ghgfz2sfn9sav1",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Buu%C2%B4s%20Candys/tppyjctejvcixo2hcyz9"
+    ]
+  },
+  {
+    "id": 41,
+    "name": "Red Scouter",
+    "description": "Harness the power of advanced technology with the Red Scouter, a fusion of style and functionality. Crafted with precision, it offers enhanced visual capabilities, allowing you to perceive the world in a whole new light. The fiery red hue symbolizes a passion for discovery and a hunger for knowledge. Step into the future with this essential tool for those who seek to uncover the mysteries of the universe.",
+    "price": "70000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/a4iwbvrphvpizvms8gkj",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/items/Scouters/y8ltc4xfs9k81oyptvzm", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696593319/items/Scouters/red-scouter-2_saglga.png"
+    ]
+  },
+  {
+    "id": 42,
+    "name": "Frieza's Spaceship",
+    "description": "Command the cosmos with the awe-inspiring Frieza's Spaceship, a testament to the might of the galactic overlord. Crafted with advanced technology, it exudes an aura of supremacy and power. This formidable vessel is equipped with state-of-the-art weaponry and defenses, ensuring dominance over the vast expanse of space. Whether you seek conquest or exploration, Frieza's Spaceship is the ultimate choice for those who dare to challenge the stars.",
+    "price": "1000000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/tyxschsf9qflnrdlrrnn",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592451/items/Frieza%C2%B4s%20Ship/frieza-ship_jhhemx.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592449/items/Frieza%C2%B4s%20Ship/frieza-ship-2_awplqg.png"
+    ]
+  },
+  {
+    "id": 43,
+    "name": "Vegito Chocolate Candy",
+    "description": "Indulge in the delectable world of Vegito Chocolate Candy! Each piece is a fusion of rich, premium chocolate with a burst of Saiyan energy. A treat fit for the mightiest of warriors and a sweet reminder of the epic fusion between Goku and Vegeta.",
+    "price": "8000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/gwcxmtofcjpgb6aae8dv",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696574851/items/Candy%20Vegito/lg9ipqe2yozaa9clribp.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696574848/items/Candy%20Vegito/stweufvdojs9tdh3wkkt.png"
+    ]
+  },
+  {
+    "id": 44,
+    "name": "Mr Satan Gold Statue",
+    "description": "Commemorate the Earth's Champion, Mr. Satan, with this exquisite Gold Statue. Crafted with unparalleled detail, this statue captures the essence of the charismatic hero who won the hearts of the world. A symbol of bravery and entertainment, it's a must-have for fans and collectors alike.",
+    "price": "150000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/udugxvahfqe8o2gszr6c",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592524/items/MrSatan%20Statue/satan-statue_s8riao.png"
+    ]
+  },
+  {
+    "id": 45,
+    "name": "Frieza's Hoverchair",
+    "description": "Embrace the technological marvel that is Frieza's Hoverchair, a symbol of power and authority. Crafted with precision and designed for the discerning conqueror, this hoverchair provides unmatched mobility and style. Rule with elegance and grace as you glide through your domain on this extraordinary throne of the cosmos.",
+    "price": "450000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/n7iameqcodi1jmuo4uun",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696574853/items/Frieza%C2%B4s%20Hoverchair/vcryd1gnnv0av8jvebxj.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696574856/items/Frieza%C2%B4s%20Hoverchair/fo4egozivfjzu7pgdfmf.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592692/items/Frieza%C2%B4s%20Hoverchair/frieza-hoverchair-2_qwioqa.png"
+    ]
+  },
+  {
+    "id": 46,
+    "name": "Dabura Cookie",
+    "description": "Savor the tempting sweetness of the Dabura Cookie, a delectable treat inspired by the formidable Demon King Dabura. Crafted with exquisite flavors and high-quality ingredients, each cookie is a testament to Dabura's commanding presence. Whether enjoyed as a snack or shared with fellow fans, the Dabura Cookie is a culinary tribute to a legendary character.",
+    "price": "3500",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/zqbsp81wwufod2so1now",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696574855/items/Buu%C2%B4s%20Candys/vdeieueue8fhpx6avsbh.png"
+    ]
+  },
+  {
+    "id": 47,
+    "name": "Cell's Time Machine",
+    "description": "Step into the world of time travel with Cell's Time Machine. This awe-inspiring machine is a nod to the advanced technology used by the cunning villain, Cell. Whether for display or imaginative play, this piece is sure to ignite the imagination of any time enthusiast.",
+    "price": "1000000",
+    "mostBuyed": false,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/uvx4teeqjadvc40xaa3r",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592781/items/Cell%C2%B4s%20Time%20Machine/cell-time-machine_hpicc3.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592782/items/Cell%C2%B4s%20Time%20Machine/cell-time-machine-2_v7wsfb.png"
+    ]
+  },
+  {
+    "id": 48,
+    "name": "Capsule Corp Spaceship",
+    "description": "Own a piece of the future with the Capsule Corp Spaceship! This marvel of engineering embodies the ingenuity of the Brief family. Whether for interstellar travel or simply as a collector's item, this meticulously designed spaceship is a testament to the boundless possibilities of technology.",
+    "price": "950000",
+    "mostBuyed": true,
+    "img": "https://res.cloudinary.com/du94mex28/image/upload/f_auto,q_auto/v1/tabs-items/ahcsd0eyztqmldpwyjw2",
+    "images": [
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592868/items/Goku%C2%B4s%20Ship/goku-ship_gjunpa.png", 
+      "https://res.cloudinary.com/du94mex28/image/upload/v1696592868/items/Goku%C2%B4s%20Ship/goku-ship-2_dhhhay.png"
+    ]
+  }
+]
+}
