@@ -5,10 +5,18 @@ const express = require("express");
 
 const server = express();
 const databasePath = path.resolve(__dirname, "..", "db.json");
-const database = JSON.parse(fs.readFileSync(databasePath, "utf8"));
+let database;
+let databaseMtime;
 const resources = ["clothes", "items"];
 
-const getCollection = resource => database[resource] || [];
+const getCollection = resource => {
+  const mtime = fs.statSync(databasePath).mtimeMs;
+  if (!database || mtime !== databaseMtime) {
+    database = JSON.parse(fs.readFileSync(databasePath, "utf8"));
+    databaseMtime = mtime;
+  }
+  return database[resource] || [];
+};
 
 const sendCollection = resource => (request, response) => {
   const query = typeof request.query.q === "string" ? request.query.q.trim().toLowerCase() : "";
@@ -41,6 +49,7 @@ server.use(cors({ exposedHeaders: ["X-Total-Count"] }));
 server.use((_request, response, next) => {
   response.set("X-Content-Type-Options", "nosniff");
   response.set("Referrer-Policy", "no-referrer");
+  response.set("Cache-Control", "no-cache");
   next();
 });
 server.get("/health", (_request, response) => {

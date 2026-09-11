@@ -4,11 +4,11 @@
   "description": "Products for Capsule Corp fake store api",
   "main": "api/server.js",
   "engines": {
-    "node": ">=20.0.0"
+    "node": "24.x"
   },
   "scripts": {
     "start": "node api/server.js",
-    "check": "node --check api/server.js"
+    "check": "node --check api/server.js && node scripts/check-server.js && node scripts/check-catalog.js"
   },
   "repository": {
     "type": "git",
