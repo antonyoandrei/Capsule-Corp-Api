@@ -31,5 +31,8 @@
   "dependencies": {
     "cors": "^2.8.6",
     "express": "^5.2.1"
+  },
+  "volta": {
+    "node": "24.22.3"
   }
 }
